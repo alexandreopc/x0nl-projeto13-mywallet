@@ -1,15 +1,8 @@
 # dependencies
 /projeto13-mywallet-back/node_modules
 /projeto13-mywallet-front/node_modules
-/projeto13-mywallet-front/node_modules
 /projeto13-mywallet-front/.pnp
 .pnp.js
-
-# testing
-/projeto13-mywallet-front/coverage
-
-# production
-/projeto13-mywallet-front/build
 
 # misc
 .DS_Store
